@@ -1,10 +1,10 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:fluttershare/pages/activity_feed.dart';
-import 'package:fluttershare/pages/profile.dart';
-import 'package:fluttershare/pages/search.dart';
-import 'package:fluttershare/pages/timeline.dart';
-import 'package:fluttershare/pages/upload.dart';
+import 'package:flutter/cupertino.dart';
+import 'activity_feed.dart';
+import 'profile.dart';
+import 'search.dart';
+import 'timeline.dart';
+import 'upload.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 
 final GoogleSignIn googleSignIn = GoogleSignIn();
